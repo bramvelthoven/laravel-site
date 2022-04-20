@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-white">
-    <a class="navbar-brand" href="#">Bram Velthoven</a>
+    <a class="navbar-brand" href="#">Portfolio</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -14,9 +14,6 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="{{ url('/contact') }}">Contact</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="{{ url('/work') }}">Work</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="{{ url('/login') }}">Login</a>
